@@ -1,2 +1,1 @@
-# Lucky
-Lucky
+## Hello，优课达！！
