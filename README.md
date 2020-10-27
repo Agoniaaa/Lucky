@@ -12,5 +12,8 @@
 
 git add提交第一步；git add -A
 git commit提交第二步：git commit -m "本次提交的修改的备注"
-git push 提交第三步：* 第一次提交到本分支git push origin main   * 从第二次开始提交到本分支 git push   * 提交到b（其他）分支 git push origin b
+git push 提交第三步：
+* 第一次提交到本分支git push origin main   
+* 从第二次开始提交到本分支 git push   
+* 提交到b（其他）分支 git push origin b
 git pull抓取远程仓库内容
